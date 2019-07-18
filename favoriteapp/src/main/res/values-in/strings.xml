@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FavoriteApp</string>
+    <string name="tab_text_1">FILM</string>
+    <string name="tab_text_2">ACARA TV</string>
+    <string name="no_fav_tv">Tidak ada Acara TV Favorit</string>
+    <string name="no_fav_movie">Tidak ada Film Favorit</string>
+</resources>

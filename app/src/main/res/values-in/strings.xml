@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">KatalogFilm</string>
+    <string name="movies_string">Film</string>
+    <string name="tv_show_string">Acara TV</string>
+    <string name="tv_favorites">Kesukaan</string>
+
+    <string name="movies_string_fav">FILM</string>
+    <string name="tv_show_string_fav">ACARA TV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="deskripsi_film">Deskripsi Film</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="change_language_string">Bahasa</string>
+    <string name="dummy_year">2019</string>
+    <string name="dummy_rate">9.0</string>
+    <string name="tv_divider">|</string>
+    <string name="settings_menu">Pengaturan</string>
+    <string name="release_now_string">Rilis sekarang</string>
+    <string name="has_release_string"> telah rilis sekarang juga!</string>
+    <string name="good_morning_string">Pagi!</string>
+    <string name="check_app_string">Awali harimu dengan film-film terbaru hanya di KatalogFilm</string>
+    <string name="appwidget_text">Film Kesukaan</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="empty_text">Tidak ada Film Kesukaan</string>
+    <string name="overview_string">Sinopsis</string>
+
+</resources>

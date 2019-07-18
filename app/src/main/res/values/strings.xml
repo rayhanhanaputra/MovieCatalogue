@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="movies_string">Movies</string>
+    <string name="tv_show_string">TV Shows</string>
+    <string name="tv_favorites">Favorites</string>
+
+    <string name="movies_string_fav">MOVIES</string>
+    <string name="tv_show_string_fav">TV SHOWS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="deskripsi_film">Lorem ipsum dolor sit amet</string>
+    <string name="judul_film">Movie Title</string>
+    <string name="change_language_string">Language</string>
+    <string name="dummy_year">2019</string>
+    <string name="dummy_rate">9.0</string>
+    <string name="tv_divider">|</string>
+    <string name="settings_menu">Settings</string>
+    <string name="release_now_string">Release now</string>
+    <string name="has_release_string"> has just released now!</string>
+    <string name="good_morning_string">Morning!</string>
+    <string name="check_app_string">Start your day by finding out more about the latest movie in MovieCatalogue App</string>
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">No Favorite Movie</string>
+    <string name="overview_string">Overview</string>
+
+</resources>

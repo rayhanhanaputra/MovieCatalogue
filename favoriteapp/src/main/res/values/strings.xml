@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FavoriteApp</string>
+    <string name="tab_text_1">MOVIE</string>
+    <string name="tab_text_2">TV SHOW</string>
+    <string name="no_fav_tv">No Favorite TV Show</string>
+    <string name="no_fav_movie">No Favorite Movie</string>
+</resources>
